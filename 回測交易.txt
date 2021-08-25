@@ -1,0 +1,34 @@
+PTT Re: [問題] 大家都怎麼學程式交易 建立交易模型的
+https://www.ptt.cc/bbs/Trading/M.1483803698.A.B08.html
+
+PTT 量化交易起頭篇
+https://ptt-chat.com/Stock/l/CHAT.M.1627113597.A.03E
+
+PTT 演算法回測平台 Quantopian
+https://pttweb.tw/s/1ft7H
+
+PyAlgoTrade
+https://gbeced.github.io/pyalgotrade/
+
+
+Apex Robot Trader平台支援的Python套件
+技術分析
+    ta-lib
+    stockstats
+科學計算
+    pandas
+    numpy
+    scipy
+    statsmodels
+繪圖套件
+    matplotlib
+統計模型
+    pmdarima
+    PyWavelets
+    patsy
+類神經網路
+    sonnet
+    keras
+機器學習
+    pytorch
+    pybrain(CNN、RNN、LSTM皆支援)
